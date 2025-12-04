@@ -65,4 +65,5 @@ def test_repr_empty():
     assert r == "Order([])"
 
 
-# python -m pytest test_order_manager.py --maxfail=1 --disable-warnings -q
+
+# python -m pytest service_body_test.py --maxfail=1 --disable-warnings -q
